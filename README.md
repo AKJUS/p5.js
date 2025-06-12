@@ -86,27 +86,30 @@ Lead/Mentor Alumni
 * [@qianqianye](https://github.com/qianqianye) - p5.js Lead，2021-present (on leave)
 * [@outofambit](https://github.com/outofambit) - p5.js Co-Lead 2021-22, Mentor 2022-2023
 * [@mcturner1995](https://github.com/mcturner1995) - p5.js Lead 2020
-  
-| Area                                                                                 | Steward(s)                                                                                                               |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Overall                                                                              | [@ksen0](https://github.com/ksen0)                                                                                                             |
-| [Accessibility](https://github.com/processing/p5.js/tree/main/src/accessibility)     | [@calebfoss](https://github.com/calebfoss), [@cosmicbhejafry](https://github.com/cosmicbhejafry), [@apoorva-a98](https://github.com/apoorva-a98), [@tedkmburu](https://github.com/tedkmburu), [@Zarkv](https://github.com/Zarkv), [@SkylerW99](https://github.com/SkylerW99), [@itsjoopark](https://github.com/itsjoopark), [@hannahvy](https://github.com/hannahvy), [@nhasalajoshi](https://github.com/nhasalajoshi)|
-| [Color](https://github.com/processing/p5.js/tree/main/src/color)                     | [@paulaxisabel](https://github.com/paulaxisabel), [@SoundaryaKoutharapu](https://github.com/SoundaryaKoutharapu), [@mrbrack](https://github.com/mrbrack), [@TJ723](https://github.com/TJ723), [@Zarkv](https://github.com/Zarkv), [@SkylerW99](https://github.com/SkylerW99), [@ramya202000](https://github.com/ramya202000), [@hannahvy](https://github.com/hannahvy), [@robin-haxx](https://github.com/robin-haxx), [@hiddenenigma](https://github.com/hiddenenigma)  |
-| [Core](https://github.com/processing/p5.js/tree/main/src/core)/Environment/Rendering | [@limzykenneth](https://github.com/limzykenneth), [@davepagurek](https://github.com/davepagurek), [@ChihYungChang](https://github.com/ChihYungChang), [@teragramgius](https://github.com/teragramgius), [@tuminzee](https://github.com/tuminzee), [@Zarkv](https://github.com/Zarkv), [@robin-haxx](https://github.com/robin-haxx), [@Gaurav-1306](https://github.com/Gaurav-1306) |
-| [Data](https://github.com/processing/p5.js/tree/main/src/data)                       | [@angelabelle](https://github.com/angelabelle), [@shahankhatch](https://github.com/shahankhatch), [@TanviKumar](https://github.com/TanviKumar), [@SkylerW99](https://github.com/SkylerW99), [@nhasalajoshi](https://github.com/nhasalajoshi)   |
-| [DOM](https://github.com/processing/p5.js/tree/main/src/dom)                         | [@SarveshLimaye](https://github.com/SarveshLimaye), [@SoundaryaKoutharapu](https://github.com/SoundaryaKoutharapu), [@ramya202000](https://github.com/ramya202000), [@BamaCharanChhandogi](https://github.com/BamaCharanChhandogi), [@Obi-Engine10](https://github.com/Obi-Engine10), [@MarceloGoncalves](https://github.com/MarceloGoncalves), [@hiddenenigma](https://github.com/hiddenenigma)                   |
-| [Events](https://github.com/processing/p5.js/tree/main/src/events)                   | [@limzykenneth](https://github.com/limzykenneth), [@richardegil](https://github.com/richardegil), [@angelabelle](https://github.com/angelabelle), [@littlejacinthe](https://github.com/littlejacinthe), [@TanviKumar](https://github.com/TanviKumar), [@tuminzee](https://github.com/tuminzee)       |
-| [Image](https://github.com/processing/p5.js/tree/main/src/image)                     | [@cgusb](https://github.com/cgusb), [@albertomancia](https://github.com/albertomancia), [@ramya202000](https://github.com/ramya202000), [@hannahvy](https://github.com/hannahvy), [@robin-haxx](https://github.com/robin-haxx)|
-| [IO](https://github.com/processing/p5.js/tree/main/src/io)                           | [@limzykenneth](https://github.com/limzykenneth), [@Pritam1136](https://github.com/Pritam1136), [@shahankhatch](https://github.com/shahankhatch), [@TanviKumar](https://github.com/TanviKumar), [@jeanetteandrews](https://github.com/jeanetteandrews)|
-| [Math](https://github.com/processing/p5.js/tree/main/src/math)                       | [@limzykenneth](https://github.com/limzykenneth), [@ericnlchen](https://github.com/ericnlchen), [@ChihYungChang](https://github.com/ChihYungChang), [@bsubbaraman](https://github.com/bsubbaraman), [@albertomancia](https://github.com/albertomancia), [@JazerUCSB](https://github.com/JazerUCSB), [@tedkmburu](https://github.com/tedkmburu), [@perminder-17](https://github.com/perminder-17), [@Obi-Engine10](https://github.com/Obi-Engine10), [@jeanetteandrews](https://github.com/jeanetteandrews)       |
-| [Typography](https://github.com/processing/p5.js/tree/main/src/typography)           | [@dhowe](https://github.com/dhowe), [@paulaxisabel](https://github.com/paulaxisabel), [@SarveshLimaye](https://github.com/SarveshLimaye), [@SkylerW99](https://github.com/SkylerW99), [@BamaCharanChhandogi](https://github.com/BamaCharanChhandogi), [@Obi-Engine10](https://github.com/Obi-Engine10), [@hannahvy](https://github.com/hannahvy), [@singshris](https://github.com/singshris), [@hiddenenigma](https://github.com/hiddenenigma)       |
-| [Utilities](https://github.com/processing/p5.js/tree/main/src/utilities)             | [@limzykenneth](https://github.com/limzykenneth), [@glopzel](https://github.com/glopzel)     |
-| [WebGL](https://github.com/processing/p5.js/tree/main/src/webgl)                     | [@davepagurek](https://github.com/davepagurek), [@aferriss](https://github.com/aferriss), [@aceslowman](https://github.com/aceslowman), [@ShenpaiSharma](https://github.com/ShenpaiSharma), [@ChihYungChang](https://github.com/ChihYungChang), [@teragramgius](https://github.com/teragramgius), [@JazerUCSB](https://github.com/JazerUCSB), [@richardegil](https://github.com/richardegil), [@itsjoopark](https://github.com/itsjoopark), [@Gaurav-1306](https://github.com/Gaurav-1306), [@jeanetteandrews](https://github.com/jeanetteandrews)  |
-| [Internalization](https://github.com/processing/p5.js/blob/main/src/core/internationalization.js)           | [@limzykenneth](https://github.com/limzykenneth)        |
-| [Friendly Errors](https://github.com/processing/p5.js/tree/main/src/core/friendly_errors)         | [@richardegil](https://github.com/richardegil), [@itsjoopark](https://github.com/itsjoopark), [@hannahvy](https://github.com/hannahvy), [@bisabi-01](https://github.com/bisabi-01), [@singshris](https://github.com/singshris)   |
-| [Contributor Docs](https://github.com/processing/p5.js/tree/main/contributor_docs)   |[@limzykenneth](https://github.com/limzykenneth), [@asukaminato0721](https://github.com/asukaminato0721), [@SoundaryaKoutharapu](https://github.com/SoundaryaKoutharapu), [@richardegil](https://github.com/richardegil), [@hannahvy](https://github.com/hannahvy), [@bayomayo](https://github.com/bayomayo)  |
-| [p5.sound](https://github.com/processing/p5.sound.js)   |[@miguellacorte](https://github.com/miguellacorte), [@JazerUCSB](https://github.com/JazerUCSB), [@angelabelle](https://github.com/angelabelle), [@littlejacinthe](https://github.com/littlejacinthe), [@hannahvy](https://github.com/hannahvy), [@glopzel](https://github.com/glopzel), [@singshris](https://github.com/singshris), [@jeanetteandrews](https://github.com/jeanetteandrews)  |
-| Build Process/Unit Testing                                                           | [@limzykenneth](https://github.com/limzykenneth)      |
+
+
+<!-- STEWARDS-LIST:START - Do not remove or modify this section -->
+| Area | Steward(s) |
+|------|-------------|
+| Maintainers | [@davepagurek](https://github.com/davepagurek), [@ksen0](https://github.com/ksen0), [@limzykenneth](https://github.com/limzykenneth), [@perminder-17](https://github.com/perminder-17), [@qianqianye](https://github.com/qianqianye) |
+| Accessibility | [@calebfoss](https://github.com/calebfoss) |
+| Accessibility (p5.js-website) | [@coseeian](https://github.com/coseeian) |
+| Color | [@limzykenneth](https://github.com/limzykenneth) |
+| Core | [@davepagurek](https://github.com/davepagurek) |
+| DevOps | [@Vaivaswat2244](https://github.com/Vaivaswat2244), [@error-four-o-four](https://github.com/error-four-o-four), [@limzykenneth](https://github.com/limzykenneth), [@lirenjie95](https://github.com/lirenjie95) |
+| Documentation | [@VANSH3104](https://github.com/VANSH3104), [@limzykenneth](https://github.com/limzykenneth), [@perminder-17](https://github.com/perminder-17) |
+| Friendly Errors | [@IITM-Jay](https://github.com/IITM-Jay) |
+| Graphics (p5.strands) | [@lukeplowden](https://github.com/lukeplowden) |
+| Graphics (WebGL) | [@aferriss](https://github.com/aferriss), [@davepagurek](https://github.com/davepagurek), [@lukeplowden](https://github.com/lukeplowden), [@perminder-17](https://github.com/perminder-17) |
+| i18n (hi) | [@Divyansh013](https://github.com/Divyansh013), [@takshittt](https://github.com/takshittt) |
+| i18n (zh) | [@limzykenneth](https://github.com/limzykenneth), [@lirenjie95](https://github.com/lirenjie95) |
+| Math | [@GregStanton](https://github.com/GregStanton), [@holomorfo](https://github.com/holomorfo) |
+| p5.js-website | [@clairep94](https://github.com/clairep94), [@ksen0](https://github.com/ksen0) |
+| p5.sound.js | [@ogbabydiesal](https://github.com/ogbabydiesal) |
+| Shapes | [@GregStanton](https://github.com/GregStanton) |
+| Typography | [@dhowe](https://github.com/dhowe) |
+| WebGL | [@RandomGamingDev](https://github.com/RandomGamingDev) |
+<!-- STEWARDS-LIST:END -->
 
 ## Contributors
 
@@ -1146,6 +1149,12 @@ We recognize all types of contributions. This project follows the [all-contribut
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/wlaith"><img src="https://avatars.githubusercontent.com/u/98265005?v=4?s=64" width="64px;" alt="Laith Alwazani"/><br /><sub><b>Laith Alwazani</b></sub></a><br /><a href="#ideas-Wlaith" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/jep-a"><img src="https://avatars.githubusercontent.com/u/20326207?v=4?s=64" width="64px;" alt="jep"/><br /><sub><b>jep</b></sub></a><br /><a href="#ideas-jep-a" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/dpanshug"><img src="https://avatars.githubusercontent.com/u/97534722?v=4?s=64" width="64px;" alt="Dipanshu Gupta"/><br /><sub><b>Dipanshu Gupta</b></sub></a><br /><a href="https://github.com/processing/p5.js/commits?author=dpanshug" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/sukrucildirr"><img src="https://avatars.githubusercontent.com/u/32969880?v=4?s=64" width="64px;" alt="sukrucildirr"/><br /><sub><b>sukrucildirr</b></sub></a><br /><a href="https://github.com/processing/p5.js/commits?author=sukrucildirr" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://linktr.ee/andrewmcwhae"><img src="https://avatars.githubusercontent.com/u/8450380?v=4?s=64" width="64px;" alt="Andrew McWhae"/><br /><sub><b>Andrew McWhae</b></sub></a><br /><a href="https://github.com/processing/p5.js/commits?author=andrewmcwhae" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/atmajaa"><img src="https://avatars.githubusercontent.com/u/69838867?v=4?s=64" width="64px;" alt="Atmaja P."/><br /><sub><b>Atmaja P.</b></sub></a><br /><a href="https://github.com/processing/p5.js/commits?author=atmajaa" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/SonyaCode"><img src="https://avatars.githubusercontent.com/u/99513449?v=4?s=64" width="64px;" alt="SonyaCode"/><br /><sub><b>SonyaCode</b></sub></a><br /><a href="#a11y-SonyaCode" title="Accessibility">️️️️♿️</a> <a href="#blog-SonyaCode" title="Blogposts">📝</a> <a href="https://github.com/processing/p5.js/issues?q=author%3ASonyaCode" title="Bug reports">🐛</a> <a href="https://github.com/processing/p5.js/commits?author=SonyaCode" title="Code">💻</a> <a href="#design-SonyaCode" title="Design">🎨</a> <a href="https://github.com/processing/p5.js/commits?author=SonyaCode" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
