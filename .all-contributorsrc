@@ -6088,10 +6088,10 @@
       ]
     },
     {
-      "login": "Evorage0",
-      "name": "Evorage",
+      "login": "bensgilbert",
+      "name": "Ben Gilbert",
       "avatar_url": "https://avatars.githubusercontent.com/u/68397475?v=4",
-      "profile": "https://github.com/Evorage0",
+      "profile": "http://bensgilbert.com",
       "contributions": [
         "bug",
         "code"
@@ -6849,7 +6849,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/162928571?v=4",
       "profile": "https://github.com/LalitNarayanYadav",
       "contributions": [
-        "doc"
+        "doc",
+        "code"
       ]
     },
     {
@@ -6895,6 +6896,101 @@
       "profile": "https://github.com/dpanshug",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "sukrucildirr",
+      "name": "sukrucildirr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32969880?v=4",
+      "profile": "https://github.com/sukrucildirr",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "andrewmcwhae",
+      "name": "Andrew McWhae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8450380?v=4",
+      "profile": "https://linktr.ee/andrewmcwhae",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "atmajaa",
+      "name": "Atmaja P.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69838867?v=4",
+      "profile": "https://github.com/atmajaa",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SonyaCode",
+      "name": "SonyaCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99513449?v=4",
+      "profile": "https://github.com/SonyaCode",
+      "contributions": [
+        "a11y",
+        "blog",
+        "bug",
+        "code",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "vtjl10",
+      "name": "fuder.eth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139509124?v=4",
+      "profile": "https://github.com/vtjl10",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "FerrinThreatt",
+      "name": "FerrinThreatt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51208056?v=4",
+      "profile": "https://github.com/FerrinThreatt",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "leopardracer",
+      "name": "leopardracer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136604165?v=4",
+      "profile": "https://github.com/leopardracer",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kilavvy",
+      "name": "kilavvy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140459108?v=4",
+      "profile": "https://github.com/kilavvy",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "shivasankaran18",
+      "name": "Shiva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148421597?v=4",
+      "profile": "https://github.com/shivasankaran18",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "madhav2348",
+      "name": "Madhav Majumdar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161720210?v=4",
+      "profile": "https://github.com/madhav2348",
+      "contributions": [
+        "code"
       ]
     }
   ],
